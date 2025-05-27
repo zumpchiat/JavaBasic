@@ -10,6 +10,8 @@ public class List_App1 {
        // List<Integer> l1 = new ArrayList<>();
         var l1 = new LinkedList<Integer>();
 
+        //Métodos de Listas
+
         l1.add(12);
         l1.add(3);
         l1.add(7);
